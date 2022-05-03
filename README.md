@@ -12,8 +12,8 @@
 - Webpack
 
 
-- GitHub: [@githubhandle](https://github.com/stanleeeeee)
-- Twitter: [@twitterhandle](https://twitter.com/Stanmega89)
+- GitHub: [@stanleeeeee](https://github.com/stanleeeeee)
+- Twitter: [@Stanmega89](https://twitter.com/Stanmega89)
 
 ## 🤝 Contributing
 
